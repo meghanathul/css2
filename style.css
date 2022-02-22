@@ -1,0 +1,27 @@
+.container{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+    margin: 20px;
+    padding: 20px;
+}
+.container1{
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.boxx{
+height: 300px;
+width: 300px;
+padding: 20px;
+margin: 20px;
+background-color: blueviolet;
+}

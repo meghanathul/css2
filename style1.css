@@ -1,0 +1,28 @@
+.box{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 50px;
+    border:50px groove green;
+    background: gray;
+    font-size: 30px;
+    text-align: center;
+}
+.h22{
+    color: crimson;
+    font-size: 30px;
+}
+.container1{
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.boxx{
+height: 300px;
+width: 300px;
+padding: 20px;
+margin: 20px;
+background-color: blueviolet;
+}
